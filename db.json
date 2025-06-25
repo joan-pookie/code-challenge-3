@@ -1,32 +1,11 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "Modern Wooden Dining Table",
-      "content": "Crafted from premium oak, perfect for family meals and entertaining guests.",
-      "author": "FurniLux Store",
-      "image": "https://via.placeholder.com/150/8B4513/FFFFFF?text=Dining+Table"
-    },
-    {
-      "id": 2,
-      "title": "Elegant Velvet Sofa",
-      "content": "A soft, stylish centerpiece for your living room. Available in multiple colors.",
-      "author": "FurniLux Store",
-      "image": "https://via.placeholder.com/150/708090/FFFFFF?text=Sofa"
-    },
-    {
-      "id": 3,
-      "title": "Minimalist Coffee Table",
-      "content": "Compact, clean, and perfect for modern homes. Made from recycled materials.",
-      "author": "FurniLux Store",
-      "image": "https://via.placeholder.com/150/A9A9A9/FFFFFF?text=Coffee+Table"
-    },
-    {
-      "title": "computer desk",
-      "content": "wooden desk",
-      "author": "joan",
-      "image": "https://www.freepik.com/free-photo/empty-wooden-table-top-isolated-white-background-used-display-montage-your-products_19065065.htm#fromView=keyword&page=1&position=0&query=Wood+Desk",
-      "id": 4
+      "title": "wooden shelf",
+      "content": "wooden ",
+      "author": "Aura Martins",
+      "image": "https://dir.indiamart.com/impcat/plastic-dining-table.html",
+      "id": 1
     }
   ]
 }

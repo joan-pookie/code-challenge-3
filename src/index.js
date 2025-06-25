@@ -32,7 +32,7 @@ function renderPost(post) {
   postItem.appendChild(title);
   postItem.appendChild(image);
 
-  postItem.addEventListener("click", () => handlePostClick(post.id));
+  postItem.addEventListener("click", () => handlePostClick());
 
   postList.appendChild(postItem);
 }
